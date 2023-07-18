@@ -1,8 +1,7 @@
 <p align="center">
     <img src="/img/8-EoupSza0CCIElrl.png" alt="Logo" width="350" height="350">
 </p>
-This program is a Windows Service with the process hollowing technique that runs shellcode , it requires the ROT "encrypted" shellcode that the user will create with the HollowCrypt program. 
-I created this because there were moments where I needed a custom and easy way to run metasploit shellcode on a windows service to persist/privilege escalate, and using the common tools would trigger my binaries . . 
+This program is a Windows Service that utilizes the 'process hollowing' technique to run shellcode. It requires the ROT-encrypted shellcode that the user will create using the HollowCrypt program. I created this because there were moments when I needed a custom and straightforward way to run Metasploit shellcode on a Windows Service for persistence/privilege escalation, and using common tools would trigger my binaries... 
 
 
 ## How to use it
@@ -35,3 +34,4 @@ Defender FUD:
 <p align="center">
   <img src="/img/legitsvc4.png" alt="legitsvc4" width="500" height="350">
 </p>
+And remember, there is always ways to improve this!
