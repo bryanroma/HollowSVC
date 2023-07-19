@@ -30,8 +30,8 @@ Meterpreter retrieved:
   <img src="/img/legitsvc3.png" alt="legitsvc3" width="700" height="150">
 </p>
 
-Defender FUD:
+Defender FUD, you will still need to implemente OPSEC and be careful when launching meterpreter modules:
 <p align="center">
   <img src="/img/legitsvc4.png" alt="legitsvc4" width="500" height="350">
 </p>
-And remember, there is always ways to improve this!
+And remember, there is always ways to improve this! (Use HTTPS cert with meterpreter, load STDAPI afterwards receiving the callback, use dynamic shellcode encoding ,custom shellcode, etc)
