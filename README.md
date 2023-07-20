@@ -34,4 +34,16 @@ Defender FUD, you will still need to implemente OPSEC and be careful when launch
 <p align="center">
   <img src="/img/legitsvc4.png" alt="legitsvc4" width="500" height="350">
 </p>
-And remember, there is always ways to improve this! (Use HTTPS cert with meterpreter, load STDAPI afterwards receiving the callback, use dynamic shellcode encoding ,custom shellcode, etc)
+And remember, there is always ways to improve this! (Use HTTPS cert with meterpreter, load STDAPI afterwards receiving the callback, meterpreter auto-migrate module, use dynamic shellcode encoding ,custom shellcode, etc)
+
+Following those tips, you can bypass AVs like Kaspersky ;-)
+<p align="center">
+  <img src="/img/photo_2023-07-20_22-35-40.jpg" alt="photo_2023-07-20_22-35-40.jpg" width="1200" height="700">
+</p>
+<p align="center">
+  <img src="/img/photo_2023-07-20_22-36-35.jpg" alt="photo_2023-07-20_22-36-35.jpg" width="700" height="470">
+</p>
+
+
+
+
