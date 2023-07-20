@@ -30,7 +30,7 @@ Meterpreter retrieved:
   <img src="/img/legitsvc3.png" alt="legitsvc3" width="700" height="150">
 </p>
 
-Defender FUD, you will still need to implemente OPSEC and be careful when launching meterpreter modules:
+Defender FUD, you will still need to implement OPSEC and be careful when launching meterpreter modules:
 <p align="center">
   <img src="/img/legitsvc4.png" alt="legitsvc4" width="500" height="350">
 </p>
